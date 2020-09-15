@@ -1,5 +1,6 @@
 # Forkify
 It is a recipe searching website developed by using html5, css3, javascript, webpack, babel and AJAX. One can search following recipes and then, change the number of ingredients according to the number of servings and can add it to his shopping list as well. 
+Website link --> http://rishabh.infinityfreeapp.com/build/
 Available search queries
 carrot
 broccoli
